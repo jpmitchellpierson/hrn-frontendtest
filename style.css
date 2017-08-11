@@ -1,0 +1,127 @@
+#nav-wrapper {
+  position: absolute;
+  width: 100% !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0; 
+  z-index: 20;
+  height: 5em;
+  background-color: black;
+}
+
+#logo {
+  height: 3em;
+  width: 15em;
+  margin-top: 1em;
+  margin-left: 1.5em;
+  margin-right: 5em;
+  float: left;
+}
+
+.nav-list {
+  display: inline-block;
+  margin-top: 1em;
+}
+
+.link { 
+  display: inline; 
+  color: #FFF;
+  font-family: sans-serif;
+  font-size: 14px;
+  text-decoration: none;
+margin-right: 2em;
+}
+
+#tickets-btn {
+  float: right;
+  height: 3em;
+  width: 14em;
+  margin-right: 1em;
+  border: none;
+  border-radius: 2px;
+  font-size: 15px;
+  color: #FFF;
+  background-color: #99CC00;
+}
+
+#tickets-btn:hover {
+  color: #99CC00;
+  background-color: #FFF;
+}
+
+ #section-one {
+ 
+ }
+
+ #one-background {
+  margin-top: 4em;
+  width: 100%;
+ }
+
+#section-two {
+  height: 35em;
+  width: 100%;
+  text-align: center !important;
+  background-color: #FFF;
+}
+
+a {
+	text-decoration: none;
+}
+
+.fa {
+  color: rgb(211,211,211);
+  margin-top: 2em;
+  margin-right: .9em;
+}
+
+#section-two-header {
+  font-family: arial;
+  font-size: 1.8em;
+  color: #99CC00;
+  margin-top: 2em;
+}
+
+.section-two-content {
+  margin: 0 auto;
+  padding-bottom: 1.5em;
+  opacity: .8;
+  width: 52.6em;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.6em;
+}
+
+.section-two-btn {
+  margin: .8em;
+  margin-top: 3.5em;
+  height: 3.5em;
+  width: 16em;
+  font-size: 14px;
+  border: none;
+  border-radius: 2px;
+  color: #FFF;
+  background-color: #99CC00;
+}
+
+.section-two-btn:hover {
+  color: #99CC00;
+  background-color: #FFF;
+}
+
+#section-three-background {
+  position: relative;
+}
+
+#google-download, #apple-download {
+  position: relative;
+  height: 2em;
+  width: 8em;
+  background-color: black;
+  border-radius: 5px;
+}
+
+img {
+  width: 100%;
+}
